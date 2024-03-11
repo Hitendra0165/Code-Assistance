@@ -26,5 +26,5 @@ I used OLLAMA for The Aiguru model used in this project is trained to provide as
 The provided system prompt sets the context for generating responses.
 Users can adjust the temperature parameter in the Modelfile to control the randomness of the generated responses.
 
-# output
-
+# Output
+![Alt text](image link)
