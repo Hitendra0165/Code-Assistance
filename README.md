@@ -1,7 +1,7 @@
 ## Code-Assistance
 This project provides an interactive interface for generating code assistance using the Aiguru model. Users can input prompts related to code queries, and the system will generate responses based on the provided prompt.
 
-#Files
+# Files
 app.py: This Python script contains the main functionality of the project. It uses the Aiguru model to generate responses to code-related prompts provided by the user. The script utilizes the Gradio library to create a simple web interface for users to interact with.
 
 Modelfile: This file contains configuration parameters for the Aiguru model. It sets the temperature parameter to 1 and provides a system prompt for generating responses.
