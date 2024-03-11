@@ -27,4 +27,4 @@ The provided system prompt sets the context for generating responses.
 Users can adjust the temperature parameter in the Modelfile to control the randomness of the generated responses.
 
 # Output
-![Alt text](image link)
+![Alt text](https://github.com/Hitendra0165/Code-Assistance/blob/main/Screenshot%20(140).png)
