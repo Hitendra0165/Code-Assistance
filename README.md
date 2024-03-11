@@ -14,9 +14,11 @@ To use this project:
 Ensure you have Python installed on your system.
 
 Install the required dependencies listed in Requirement.txt using pip.
+
 pip install -r Requirement.txt
 
 Run the app.py script.
+
 python app.py
 
 ## Notes
